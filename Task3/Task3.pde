@@ -4,6 +4,6 @@ String adress;
 
 int sum;
 
-float division sum;
+float divisionSum;
 
 String message;
